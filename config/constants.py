@@ -46,6 +46,7 @@ NAV_PAGES = [
     ("🔍", "Session Review Feedback", "b2c"),
     ("🎓", "Instructor Scheduler", "scheduler"),
     ("📅", "Bookings Attendance", "bookings"),
+    ("💰", "Budget", "budget"),
 ]
 
 # Home Dashboard Cards

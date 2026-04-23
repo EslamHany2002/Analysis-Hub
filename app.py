@@ -15,6 +15,7 @@ from pages.team import render_team
 from pages.b2c import render_b2c
 from pages.scheduler import render_scheduler
 from pages.bookings import render_bookings
+from pages.budget import render_budget
 
 
 def main():
@@ -45,6 +46,7 @@ def main():
         "b2c": render_b2c,
         "scheduler": render_scheduler,
         "bookings": render_bookings,
+        "budget": render_budget,
     }
 
     active_page = st.session_state.get("active_page", "home")
