@@ -1,0 +1,14 @@
+2026/04/19-18:39:32.298 55ac Reusing MANIFEST D:\Analysis Hub\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/19-18:39:32.307 55ac Recovering log #12
+2026/04/19-18:39:32.310 55ac Reusing old log D:\Analysis Hub\user_data\Default\Local Storage\leveldb/000012.log 
+2026/04/19-18:39:49.293 82c Level-0 table #16: started
+2026/04/19-18:39:49.302 82c Level-0 table #16: 62521 bytes OK
+2026/04/19-18:39:49.308 82c Delete type=0 #12
+2026/04/19-18:39:49.309 82c Compacting 4@0 + 0@1 files
+2026/04/19-18:39:49.321 82c Generated table #17@0: 64 keys, 137878 bytes
+2026/04/19-18:39:49.321 82c Compacted 4@0 + 0@1 files => 137878 bytes
+2026/04/19-18:39:49.323 82c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/19-18:39:49.324 82c Delete type=2 #7
+2026/04/19-18:39:49.325 82c Delete type=2 #11
+2026/04/19-18:39:49.325 82c Delete type=2 #13
+2026/04/19-18:39:49.325 82c Delete type=2 #16

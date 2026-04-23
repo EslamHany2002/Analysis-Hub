@@ -1,0 +1,5 @@
+2026/04/19-18:25:12.979 4820 Creating DB D:\Analysis Hub\user_data\Default\IndexedDB\https_amitlearning1-my.sharepoint.com_0.indexeddb.leveldb since it was missing.
+2026/04/19-18:25:12.987 4820 Reusing MANIFEST D:\Analysis Hub\user_data\Default\IndexedDB\https_amitlearning1-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/19-18:25:22.155 4820 Level-0 table #5: started
+2026/04/19-18:25:22.208 4820 Level-0 table #5: 2061726 bytes OK
+2026/04/19-18:25:22.211 4820 Delete type=0 #3

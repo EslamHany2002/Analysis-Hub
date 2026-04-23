@@ -1,0 +1,4668 @@
+{
+  "Abdelrahman Nabil": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "ONL4_AIS5_G1 - DE",
+        "day": "Saturday",
+        "from": "15:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_G1 - DE",
+        "day": "Friday",
+        "from": "09:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S7",
+        "day": "Saturday",
+        "from": "19:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S7",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S7",
+        "day": "Friday",
+        "from": "17:00:00",
+        "to": "19:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Tuesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "ONL4_AIS5_G1 - DE": [
+        {
+          "day": "Saturday",
+          "from": "15:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "09:00:00",
+          "to": "12:00:00"
+        }
+      ],
+      "ONL4_AIS5_S7": [
+        {
+          "day": "Saturday",
+          "from": "19:00:00",
+          "to": "21:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "17:00:00",
+          "to": "19:00:00"
+        }
+      ]
+    }
+  },
+  "Ahmed Fahmi - Full-time": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "AI Maadi 97",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "AI Maadi 97",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "AI Maadi 97": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        }
+      ]
+    }
+  },
+  "Alaa": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "AI Nasr 66",
+        "day": "Saturday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "AI Nasr 66",
+        "day": "Friday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "AI Nasr 66": [
+        {
+          "day": "Saturday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        }
+      ]
+    }
+  },
+  "Aya Saber": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "GIZ4_AIS4_G1 - DS",
+        "day": "Saturday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "GIZ4_AIS4_G1 - DS",
+        "day": "Monday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Monday"
+    ],
+    "unique_groups": {
+      "GIZ4_AIS4_G1 - DS": [
+        {
+          "day": "Saturday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Monday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Bahaa": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "ONL4_AIS5_G5",
+        "day": "Saturday",
+        "from": "10:00:00",
+        "to": "13:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_G5",
+        "day": "Friday",
+        "from": "09:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S6",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S6",
+        "day": "Friday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "ONL4_AIS5_G5": [
+        {
+          "day": "Saturday",
+          "from": "10:00:00",
+          "to": "13:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "09:00:00",
+          "to": "12:00:00"
+        }
+      ],
+      "ONL4_AIS5_S6": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ]
+    }
+  },
+  "Baraa": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "CAI4_AIS3_G1 - GE",
+        "day": "Saturday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "CAI4_AIS3_G1 - GE",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI4_AIS3_S1 - GE",
+        "day": "Saturday",
+        "from": "09:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "CAI4_AIS3_S1 - GE",
+        "day": "Monday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "GIZ4_AIS3_G1 - GE",
+        "day": "Sunday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "GIZ4_AIS3_G1 - GE",
+        "day": "Friday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "GIZ4_AIS3_S1 - GE",
+        "day": "Wednesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "GIZ4_AIS3_S1 - GE",
+        "day": "Friday",
+        "from": "09:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "ONL4_AIS3_G1 - GE",
+        "day": "Saturday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS3_G1 - GE",
+        "day": "Thursday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "CAI4_AIS3_G1 - GE": [
+        {
+          "day": "Saturday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "CAI4_AIS3_S1 - GE": [
+        {
+          "day": "Saturday",
+          "from": "09:00:00",
+          "to": "12:00:00"
+        },
+        {
+          "day": "Monday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "GIZ4_AIS3_G1 - GE": [
+        {
+          "day": "Sunday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ],
+      "GIZ4_AIS3_S1 - GE": [
+        {
+          "day": "Wednesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "09:00:00",
+          "to": "12:00:00"
+        }
+      ],
+      "ONL4_AIS3_G1 - GE": [
+        {
+          "day": "Saturday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Dina Khalid": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "AI Nasr 71",
+        "day": "Saturday",
+        "from": "16:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "AI Nasr 71",
+        "day": "Thursday",
+        "from": "16:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "AI Online 117",
+        "day": "Saturday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "AI Online 117",
+        "day": "Friday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Thursday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "AI Nasr 71": [
+        {
+          "day": "Saturday",
+          "from": "16:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "16:00:00",
+          "to": "20:00:00"
+        }
+      ],
+      "AI Online 117": [
+        {
+          "day": "Saturday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        }
+      ]
+    }
+  },
+  "George Samuel Mahrous": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "Deiglians",
+        "day": "Saturday",
+        "from": "13:00:00",
+        "to": "15:00:00"
+      },
+      {
+        "group": "Deiglians",
+        "day": "Tuesday",
+        "from": "13:00:00",
+        "to": "15:00:00"
+      },
+      {
+        "group": "GIZ4_AIS2_S1 - ML",
+        "day": "Sunday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "GIZ4_AIS2_S1 - ML",
+        "day": "Friday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "GIZ4_AIS4_S1 - DS",
+        "day": "Saturday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "GIZ4_AIS4_S1 - DS",
+        "day": "Thursday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS2_G3 - ML",
+        "day": "Monday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS2_G3 - ML",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "ONL4_AIS2_S2 - ML",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS2_S2 - ML",
+        "day": "Wednesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Deiglians": [
+        {
+          "day": "Saturday",
+          "from": "13:00:00",
+          "to": "15:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "13:00:00",
+          "to": "15:00:00"
+        }
+      ],
+      "GIZ4_AIS2_S1 - ML": [
+        {
+          "day": "Sunday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "GIZ4_AIS4_S1 - DS": [
+        {
+          "day": "Saturday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "ONL4_AIS2_G3 - ML": [
+        {
+          "day": "Monday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ],
+      "ONL4_AIS2_S2 - ML": [
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Gomaa": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "Ai Online 110",
+        "day": "Monday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Deiglians 1 W1",
+        "day": "Monday",
+        "from": "13:00:00",
+        "to": "15:00:00"
+      },
+      {
+        "group": "Deiglians 1 W1",
+        "day": "Wednesday",
+        "from": "13:00:00",
+        "to": "15:00:00"
+      },
+      {
+        "group": "Deiglians 3 W1 - 2",
+        "day": "Tuesday",
+        "from": "13:00:00",
+        "to": "15:00:00"
+      },
+      {
+        "group": "Deiglians 4 W2",
+        "day": "Sunday",
+        "from": "13:00:00",
+        "to": "15:00:00"
+      },
+      {
+        "group": "ONL4_AIS3_S2 - GE",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS3_S2 - GE",
+        "day": "Friday",
+        "from": "09:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "ONL4_AIS3_S3 - GE",
+        "day": "Wednesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS3_S3 - GE",
+        "day": "Thursday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Saturday"
+    ],
+    "busy_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Ai Online 110": [
+        {
+          "day": "Monday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Deiglians 1 W1": [
+        {
+          "day": "Monday",
+          "from": "13:00:00",
+          "to": "15:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "13:00:00",
+          "to": "15:00:00"
+        }
+      ],
+      "Deiglians 3 W1 - 2": [
+        {
+          "day": "Tuesday",
+          "from": "13:00:00",
+          "to": "15:00:00"
+        }
+      ],
+      "Deiglians 4 W2": [
+        {
+          "day": "Sunday",
+          "from": "13:00:00",
+          "to": "15:00:00"
+        }
+      ],
+      "ONL4_AIS3_S2 - GE": [
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "09:00:00",
+          "to": "12:00:00"
+        }
+      ],
+      "ONL4_AIS3_S3 - GE": [
+        {
+          "day": "Wednesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Hekal": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "BNS4_AIS2_S1 - ML",
+        "day": "Thursday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "BNS4_AIS2_S1 - ML",
+        "day": "Friday",
+        "from": "17:00:00",
+        "to": "19:00:00"
+      },
+      {
+        "group": "BNS4_AIS4_S1 - DS",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "BNS4_AIS4_S1 - DS",
+        "day": "Friday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "BNS4_AIS5_S1 - DE",
+        "day": "Saturday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "BNS4_AIS5_S1 - DE",
+        "day": "Friday",
+        "from": "09:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "Deiglians",
+        "day": "Sunday",
+        "from": "13:00:00",
+        "to": "15:00:00"
+      },
+      {
+        "group": "Deiglians",
+        "day": "Monday",
+        "from": "13:00:00",
+        "to": "15:00:00"
+      },
+      {
+        "group": "Deiglians",
+        "day": "Wednesday",
+        "from": "13:00:00",
+        "to": "15:00:00"
+      },
+      {
+        "group": "ONL4_AIS4_S4 - DS",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "ONL4_AIS4_S4 - DS",
+        "day": "Friday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S8",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S8",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Tuesday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "BNS4_AIS2_S1 - ML": [
+        {
+          "day": "Thursday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "17:00:00",
+          "to": "19:00:00"
+        }
+      ],
+      "BNS4_AIS4_S1 - DS": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ],
+      "BNS4_AIS5_S1 - DE": [
+        {
+          "day": "Saturday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "09:00:00",
+          "to": "12:00:00"
+        }
+      ],
+      "Deiglians": [
+        {
+          "day": "Sunday",
+          "from": "13:00:00",
+          "to": "15:00:00"
+        },
+        {
+          "day": "Monday",
+          "from": "13:00:00",
+          "to": "15:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "13:00:00",
+          "to": "15:00:00"
+        }
+      ],
+      "ONL4_AIS4_S4 - DS": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "16:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "ONL4_AIS5_S8": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Lobna": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "Ai Online 121 - DV",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Ai Online 121 - DV",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "AI Online 87 | ML",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "AI Online 87 | ML",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Ai Online 92 - OOP",
+        "day": "Saturday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Ai Online 92 - OOP",
+        "day": "Friday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Tuesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Ai Online 121 - DV": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "AI Online 87 | ML": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        }
+      ],
+      "Ai Online 92 - OOP": [
+        {
+          "day": "Saturday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Mahmoud Zamel": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "GIZ4_AIS2_S6",
+        "day": "Saturday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "GIZ4_AIS2_S6 Ml",
+        "day": "Thursday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Thursday"
+    ],
+    "unique_groups": {
+      "GIZ4_AIS2_S6": [
+        {
+          "day": "Saturday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ],
+      "GIZ4_AIS2_S6 Ml": [
+        {
+          "day": "Thursday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Mohamed ELfil - Part-time": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "Ai Alex 20",
+        "day": "Sunday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "Ai Alex 20",
+        "day": "Tuesday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "Ai Alex 20",
+        "day": "Thursday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      }
+    ],
+    "off_days": [
+      "Saturday",
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "busy_days": [
+      "Sunday",
+      "Tuesday",
+      "Thursday"
+    ],
+    "unique_groups": {
+      "Ai Alex 20": [
+        {
+          "day": "Sunday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        }
+      ]
+    }
+  },
+  "Mostafa Badr": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "CAI4_AIS4_S1 - DS",
+        "day": "Monday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI4_AIS4_S1 - DS",
+        "day": "Friday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS4_S2 - DS",
+        "day": "Sunday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS4_S2 - DS",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Saturday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "CAI4_AIS4_S1 - DS": [
+        {
+          "day": "Monday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "ONL4_AIS4_S2 - DS": [
+        {
+          "day": "Sunday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Nour": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "AI Online 124",
+        "day": "Saturday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "AI Online 124",
+        "day": "Friday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "AI Online 83",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "AI Online 83",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_G1",
+        "day": "Sunday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_G5",
+        "day": "Saturday",
+        "from": "10:00:00",
+        "to": "13:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_G5",
+        "day": "Friday",
+        "from": "09:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S6",
+        "day": "Wednesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S7",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Monday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "AI Online 124": [
+        {
+          "day": "Saturday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "AI Online 83": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        }
+      ],
+      "ONL4_AIS5_G1": [
+        {
+          "day": "Sunday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "ONL4_AIS5_G5": [
+        {
+          "day": "Saturday",
+          "from": "10:00:00",
+          "to": "13:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "09:00:00",
+          "to": "12:00:00"
+        }
+      ],
+      "ONL4_AIS5_S6": [
+        {
+          "day": "Wednesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "ONL4_AIS5_S7": [
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Omnia Ahmed": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "CAI4_AIS2_G1 - ML",
+        "day": "Saturday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI4_AIS2_G1 - ML",
+        "day": "Friday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "CAI4_AIS2_G2 - ML",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI4_AIS2_G2 - ML",
+        "day": "Friday",
+        "from": "17:00:00",
+        "to": "19:00:00"
+      },
+      {
+        "group": "CAI4_AIS2_S1 - ML",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI4_AIS2_S1 - ML",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI4_AIS2_S1 - ML",
+        "day": "Friday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI4_AIS4_G2 - DS",
+        "day": "Saturday",
+        "from": "17:00:00",
+        "to": "19:00:00"
+      },
+      {
+        "group": "CAI4_AIS4_G2 - DS",
+        "day": "Tuesday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "CAI4_AIS2_G1 - ML": [
+        {
+          "day": "Saturday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ],
+      "CAI4_AIS2_G2 - ML": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "17:00:00",
+          "to": "19:00:00"
+        }
+      ],
+      "CAI4_AIS2_S1 - ML": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "CAI4_AIS4_G2 - DS": [
+        {
+          "day": "Saturday",
+          "from": "17:00:00",
+          "to": "19:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Shahd - Full-time": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "Ai Alex 21",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Ai Alex 21",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "AI Online 120",
+        "day": "Saturday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "AI Online 120",
+        "day": "Friday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "AI Online 84",
+        "day": "Monday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "AI Online 84",
+        "day": "Wednesday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Tuesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Ai Alex 21": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        }
+      ],
+      "AI Online 120": [
+        {
+          "day": "Saturday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        }
+      ],
+      "AI Online 84": [
+        {
+          "day": "Monday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        }
+      ]
+    }
+  },
+  "Yahia": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "GIZ4_AIS2_S2 - ML",
+        "day": "Saturday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "GIZ4_AIS2_S2 - ML",
+        "day": "Thursday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Thursday"
+    ],
+    "unique_groups": {
+      "GIZ4_AIS2_S2 - ML": [
+        {
+          "day": "Saturday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Yehia - Part-time": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "AI Maadi 72",
+        "day": "Saturday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "AI Maadi 72",
+        "day": "Friday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Ai Maadi 90",
+        "day": "Monday",
+        "from": "16:00:00",
+        "to": "19:00:00"
+      },
+      {
+        "group": "Ai Maadi 90",
+        "day": "Wednesday",
+        "from": "16:00:00",
+        "to": "19:00:00"
+      },
+      {
+        "group": "Ai Nasr 72",
+        "day": "Monday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Ai Nasr 72",
+        "day": "Wednesday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "AI Online 114",
+        "day": "Sunday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "AI Online 114",
+        "day": "Tuesday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "GIZ4_AIS2_S2 - ML",
+        "day": "Saturday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "GIZ4_AIS2_S2 - ML",
+        "day": "Thursday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      }
+    ],
+    "off_days": [],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "AI Maadi 72": [
+        {
+          "day": "Saturday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Ai Maadi 90": [
+        {
+          "day": "Monday",
+          "from": "16:00:00",
+          "to": "19:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "16:00:00",
+          "to": "19:00:00"
+        }
+      ],
+      "Ai Nasr 72": [
+        {
+          "day": "Monday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "AI Online 114": [
+        {
+          "day": "Sunday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "GIZ4_AIS2_S2 - ML": [
+        {
+          "day": "Saturday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        }
+      ]
+    }
+  },
+  "Yousef Ahmed": {
+    "track": "AI",
+    "groups": [
+      {
+        "group": "CAI4_AIS5_G1 - DE",
+        "day": "Saturday",
+        "from": "16:00:00",
+        "to": "19:00:00"
+      },
+      {
+        "group": "CAI4_AIS5_G1 - DE",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S3 - DE",
+        "day": "Monday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL4_AIS5_S3 - DE",
+        "day": "Wednesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Thursday",
+      "Friday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "unique_groups": {
+      "CAI4_AIS5_G1 - DE": [
+        {
+          "day": "Saturday",
+          "from": "16:00:00",
+          "to": "19:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "ONL4_AIS5_S3 - DE": [
+        {
+          "day": "Monday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Eman Assem": {
+    "track": "Embedded",
+    "groups": [
+      {
+        "group": "D105",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "D105",
+        "day": "Tuesday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "D105",
+        "day": "Thursday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "D107",
+        "day": "Saturday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "D107",
+        "day": "Friday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      }
+    ],
+    "off_days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Tuesday",
+      "Thursday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "D105": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "D107": [
+        {
+          "day": "Saturday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ]
+    }
+  },
+  "Eslam Ahmed": {
+    "track": "Embedded",
+    "groups": [
+      {
+        "group": "D96",
+        "day": "Saturday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "D96",
+        "day": "Friday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "IoT Online 2",
+        "day": "Saturday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "IoT Online 2",
+        "day": "Friday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Linux Online 1",
+        "day": "Saturday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Linux Online 1",
+        "day": "Tuesday",
+        "from": "18:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Linux Online 1",
+        "day": "Thursday",
+        "from": "18:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Linux Online 1",
+        "day": "Friday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Nasr 105",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Nasr 105",
+        "day": "Monday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Nasr 105",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Nasr 105",
+        "day": "Wednesday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Nasr 99 - Online",
+        "day": "Sunday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Nasr 99 - Online",
+        "day": "Monday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Nasr 99 - Online",
+        "day": "Tuesday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Nasr 99 - Online",
+        "day": "Wednesday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      }
+    ],
+    "off_days": [],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "D96": [
+        {
+          "day": "Saturday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ],
+      "IoT Online 2": [
+        {
+          "day": "Saturday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Linux Online 1": [
+        {
+          "day": "Saturday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "18:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "18:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Nasr 105": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Monday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Nasr 99 - Online": [
+        {
+          "day": "Sunday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Monday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        }
+      ]
+    }
+  },
+  "Farg": {
+    "track": "Embedded",
+    "groups": [
+      {
+        "group": "D105",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "D105",
+        "day": "Tuesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "D105",
+        "day": "Thursday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Maadi 576",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Maadi 576",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      }
+    ],
+    "off_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "busy_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "unique_groups": {
+      "D105": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Maadi 576": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ]
+    }
+  },
+  "Fathi Mandour": {
+    "track": "Embedded",
+    "groups": [
+      {
+        "group": "D101",
+        "day": "Saturday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "D101",
+        "day": "Monday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "D101",
+        "day": "Wednesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "D101",
+        "day": "Friday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "D107",
+        "day": "Saturday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "D107",
+        "day": "Friday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "D97",
+        "day": "Sunday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "D97",
+        "day": "Tuesday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Maadi 576",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Maadi 576",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "D101": [
+        {
+          "day": "Saturday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Monday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "D107": [
+        {
+          "day": "Saturday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ],
+      "D97": [
+        {
+          "day": "Sunday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Maadi 576": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Hossam El Tokhy": {
+    "track": "Embedded",
+    "groups": [
+      {
+        "group": "D107",
+        "day": "Saturday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "D107",
+        "day": "Friday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "D107": [
+        {
+          "day": "Saturday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ]
+    }
+  },
+  "Kareem Hussein": {
+    "track": "Embedded",
+    "groups": [
+      {
+        "group": "D105",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "D105",
+        "day": "Tuesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "D105",
+        "day": "Thursday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "D96",
+        "day": "Saturday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "D96",
+        "day": "Friday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      },
+      {
+        "group": "IoT Online 2",
+        "day": "Saturday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "IoT Online 2",
+        "day": "Friday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Maadi 576",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Maadi 576",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      }
+    ],
+    "off_days": [],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "D105": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "D96": [
+        {
+          "day": "Saturday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ],
+      "IoT Online 2": [
+        {
+          "day": "Saturday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Maadi 576": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ]
+    }
+  },
+  "Abdelrahman Ayman": {
+    "track": "Testing",
+    "groups": [
+      {
+        "group": "ONL3_SWD6_G3",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "ONL3_SWD6_G3",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "ONL3_SWD6_S1",
+        "day": "Saturday",
+        "from": "10:00:00",
+        "to": "13:00:00"
+      },
+      {
+        "group": "ONL3_SWD6_S1",
+        "day": "Friday",
+        "from": "10:00:00",
+        "to": "13:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "ONL3_SWD6_G3": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ],
+      "ONL3_SWD6_S1": [
+        {
+          "day": "Saturday",
+          "from": "10:00:00",
+          "to": "13:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "10:00:00",
+          "to": "13:00:00"
+        }
+      ]
+    }
+  },
+  "Ahmed Hamdy": {
+    "track": "Testing",
+    "groups": [
+      {
+        "group": "ONL3_SWD6_G1",
+        "day": "Sunday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Testing Maadi 61",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Testing Maadi 61",
+        "day": "Thursday",
+        "from": "21:00:00",
+        "to": "23:30:00"
+      },
+      {
+        "group": "Testing Online 94",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Testing Online 94",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      }
+    ],
+    "off_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "busy_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "unique_groups": {
+      "ONL3_SWD6_G1": [
+        {
+          "day": "Sunday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Testing Maadi 61": [
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "21:00:00",
+          "to": "23:30:00"
+        }
+      ],
+      "Testing Online 94": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ]
+    }
+  },
+  "Ahmed Sayed": {
+    "track": "Testing",
+    "groups": [
+      {
+        "group": "Testing Nasr 59",
+        "day": "Saturday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Testing Nasr 59",
+        "day": "Friday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Testing Nasr 61",
+        "day": "Monday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Testing Nasr 61",
+        "day": "Wednesday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Tuesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Testing Nasr 59": [
+        {
+          "day": "Saturday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Testing Nasr 61": [
+        {
+          "day": "Monday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        }
+      ]
+    }
+  },
+  "Amira Hussein Sayed": {
+    "track": "Testing",
+    "groups": [
+      {
+        "group": "ONL3_SWD6_S2",
+        "day": "Monday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL3_SWD6_S2",
+        "day": "Wednesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Testing Online 73",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Testing Online 73",
+        "day": "Tuesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      }
+    ],
+    "off_days": [
+      "Saturday",
+      "Thursday",
+      "Friday"
+    ],
+    "busy_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "unique_groups": {
+      "ONL3_SWD6_S2": [
+        {
+          "day": "Monday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Testing Online 73": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ]
+    }
+  },
+  "Mahmoud Helal Ali": {
+    "track": "Testing",
+    "groups": [
+      {
+        "group": "CAI3_SWD6_S2",
+        "day": "Wednesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_S2",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_S3",
+        "day": "Sunday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_S3",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL3_SWD6_S5",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "ONL3_SWD6_S5",
+        "day": "Monday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Testing Nasr 57",
+        "day": "Saturday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Testing Nasr 57",
+        "day": "Friday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "CAI3_SWD6_S2": [
+        {
+          "day": "Wednesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ],
+      "CAI3_SWD6_S3": [
+        {
+          "day": "Sunday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "ONL3_SWD6_S5": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        },
+        {
+          "day": "Monday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Testing Nasr 57": [
+        {
+          "day": "Saturday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Mohamed Ahmed Aboulhassan": {
+    "track": "Testing",
+    "groups": [
+      {
+        "group": "CAI3_SWD6_G5",
+        "day": "Saturday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_G5",
+        "day": "Friday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_S1",
+        "day": "Saturday",
+        "from": "10:00:00",
+        "to": "13:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_S1",
+        "day": "Friday",
+        "from": "10:00:00",
+        "to": "13:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_S4",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_S4",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "CAI3_SWD6_G5": [
+        {
+          "day": "Saturday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "CAI3_SWD6_S1": [
+        {
+          "day": "Saturday",
+          "from": "10:00:00",
+          "to": "13:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "10:00:00",
+          "to": "13:00:00"
+        }
+      ],
+      "CAI3_SWD6_S4": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ]
+    }
+  },
+  "Seif Khaled": {
+    "track": "Testing",
+    "groups": [
+      {
+        "group": "CAI3_SWD6_G2",
+        "day": "Wednesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_G2",
+        "day": "Friday",
+        "from": "10:00:00",
+        "to": "13:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_G3",
+        "day": "Saturday",
+        "from": "10:00:00",
+        "to": "13:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_G3",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL3_SWD6_S3",
+        "day": "Saturday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "ONL3_SWD6_S3",
+        "day": "Monday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "CAI3_SWD6_G2": [
+        {
+          "day": "Wednesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "10:00:00",
+          "to": "13:00:00"
+        }
+      ],
+      "CAI3_SWD6_G3": [
+        {
+          "day": "Saturday",
+          "from": "10:00:00",
+          "to": "13:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "ONL3_SWD6_S3": [
+        {
+          "day": "Saturday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Monday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Yasmin Ahmed": {
+    "track": "Testing",
+    "groups": [
+      {
+        "group": "GIZ3_SWD6_G2",
+        "day": "Monday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "GIZ3_SWD6_G2",
+        "day": "Friday",
+        "from": "10:00:00",
+        "to": "13:00:00"
+      },
+      {
+        "group": "GIZ3_SWD6_S1",
+        "day": "Wednesday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "GIZ3_SWD6_S1",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      }
+    ],
+    "off_days": [
+      "Saturday",
+      "Sunday",
+      "Tuesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "GIZ3_SWD6_G2": [
+        {
+          "day": "Monday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "10:00:00",
+          "to": "13:00:00"
+        }
+      ],
+      "GIZ3_SWD6_S1": [
+        {
+          "day": "Wednesday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ]
+    }
+  },
+  "Ziad Amr Abdel Moneim": {
+    "track": "Testing",
+    "groups": [
+      {
+        "group": "CAI3_SWD6_G4",
+        "day": "Monday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "CAI3_SWD6_G4",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "GIZ3_SWD6_G1",
+        "day": "Saturday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "GIZ3_SWD6_G1",
+        "day": "Tuesday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Monday",
+      "Tuesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "CAI3_SWD6_G4": [
+        {
+          "day": "Monday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ],
+      "GIZ3_SWD6_G1": [
+        {
+          "day": "Saturday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Abdelfatah Hamdi": {
+    "track": "Full Stack",
+    "groups": [
+      {
+        "group": "Full Stack Python 118 maadi",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "Full Stack Python 118 maadi",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Full Stack Python 118 maadi": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ]
+    }
+  },
+  "Abdelrahman Sabry": {
+    "track": "Full Stack",
+    "groups": [
+      {
+        "group": "Full Stack Python 122 online",
+        "day": "Saturday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "Full Stack Python 122 online",
+        "day": "Friday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Full Stack Python 122 online": [
+        {
+          "day": "Saturday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        }
+      ]
+    }
+  },
+  "Ahmed Mohamed Ahmed Seaad": {
+    "track": "Full Stack",
+    "groups": [
+      {
+        "group": "Ful Stack PHP Maadi 122",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "Ful Stack PHP Maadi 122",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs Online 125",
+        "day": "Saturday",
+        "from": "08:00:00",
+        "to": "11:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs Online 125",
+        "day": "Friday",
+        "from": "08:00:00",
+        "to": "11:00:00"
+      },
+      {
+        "group": "Full Stack PHP 110 Maadi",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Full Stack PHP 110 Maadi",
+        "day": "Tuesday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Full Stack PHP 110 Maadi",
+        "day": "Thursday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Full Stack PHP 130 online",
+        "day": "Saturday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "Full Stack PHP 130 online",
+        "day": "Friday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "Full Stack Python 124 online",
+        "day": "Sunday",
+        "from": "17:00:00",
+        "to": "19:00:00"
+      },
+      {
+        "group": "Full Stack Python 124 online",
+        "day": "Tuesday",
+        "from": "17:00:00",
+        "to": "19:00:00"
+      },
+      {
+        "group": "Full Stack Python 124 online",
+        "day": "Thursday",
+        "from": "17:00:00",
+        "to": "19:00:00"
+      }
+    ],
+    "off_days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Tuesday",
+      "Thursday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Ful Stack PHP Maadi 122": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ],
+      "Full Stack Nodejs Online 125": [
+        {
+          "day": "Saturday",
+          "from": "08:00:00",
+          "to": "11:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "08:00:00",
+          "to": "11:00:00"
+        }
+      ],
+      "Full Stack PHP 110 Maadi": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Full Stack PHP 130 online": [
+        {
+          "day": "Saturday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        }
+      ],
+      "Full Stack Python 124 online": [
+        {
+          "day": "Sunday",
+          "from": "17:00:00",
+          "to": "19:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "17:00:00",
+          "to": "19:00:00"
+        },
+        {
+          "day": "Thursday",
+          "from": "17:00:00",
+          "to": "19:00:00"
+        }
+      ]
+    }
+  },
+  "Ayman Mohamed": {
+    "track": "Full Stack",
+    "groups": [
+      {
+        "group": "Full Stack PHP 129 Alex",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "Full Stack PHP 129 Alex",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Full Stack PHP 129 Alex": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ]
+    }
+  },
+  "Basmala Mostafa": {
+    "track": "Full Stack",
+    "groups": [
+      {
+        "group": "Full Stack Nodejs Online 128",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs Online 128",
+        "day": "Tuesday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Saturday",
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "busy_days": [
+      "Sunday",
+      "Tuesday"
+    ],
+    "unique_groups": {
+      "Full Stack Nodejs Online 128": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Mai Amin": {
+    "track": "Full Stack",
+    "groups": [
+      {
+        "group": "Full Stack Python 123 online",
+        "day": "Saturday",
+        "from": "12:00:00",
+        "to": "15:00:00"
+      },
+      {
+        "group": "Full Stack Python 123 online",
+        "day": "Friday",
+        "from": "13:00:00",
+        "to": "16:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Full Stack Python 123 online": [
+        {
+          "day": "Saturday",
+          "from": "12:00:00",
+          "to": "15:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "13:00:00",
+          "to": "16:00:00"
+        }
+      ]
+    }
+  },
+  "Mohmed Emad Ali": {
+    "track": "Full Stack",
+    "groups": [
+      {
+        "group": "Full Stack Nodejs 19 Nasr",
+        "day": "Saturday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs 19 Nasr",
+        "day": "Friday",
+        "from": "18:00:00",
+        "to": "21:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs 24 Nasr",
+        "day": "Monday",
+        "from": "17:00:00",
+        "to": "19:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs 24 Nasr",
+        "day": "Wednesday",
+        "from": "17:00:00",
+        "to": "19:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs Online 119",
+        "day": "Saturday",
+        "from": "08:00:00",
+        "to": "11:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs Online 119",
+        "day": "Friday",
+        "from": "08:00:00",
+        "to": "11:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs Online 124",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs Online 124",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs Online 127",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Full Stack Nodejs Online 127",
+        "day": "Tuesday",
+        "from": "20:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Full Stack Nodejs 19 Nasr": [
+        {
+          "day": "Saturday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "18:00:00",
+          "to": "21:00:00"
+        }
+      ],
+      "Full Stack Nodejs 24 Nasr": [
+        {
+          "day": "Monday",
+          "from": "17:00:00",
+          "to": "19:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "17:00:00",
+          "to": "19:00:00"
+        }
+      ],
+      "Full Stack Nodejs Online 119": [
+        {
+          "day": "Saturday",
+          "from": "08:00:00",
+          "to": "11:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "08:00:00",
+          "to": "11:00:00"
+        }
+      ],
+      "Full Stack Nodejs Online 124": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Full Stack Nodejs Online 127": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "20:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Mohamed Saleh": {
+    "track": "Flutter",
+    "groups": [
+      {
+        "group": "Flutter Alex 10",
+        "day": "Monday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Flutter Alex 10",
+        "day": "Wednesday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Flutter Alex 11",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Flutter Alex 11",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Flutter Alex 12",
+        "day": "Monday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Flutter Alex 12",
+        "day": "Wednesday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Flutter Alex 13",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Flutter Alex 13",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Flutter Alex 14",
+        "day": "Monday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Flutter Alex 14",
+        "day": "Wednesday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Flutter Alex 9",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Flutter Alex 9",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      }
+    ],
+    "off_days": [
+      "Saturday",
+      "Sunday",
+      "Tuesday",
+      "Thursday",
+      "Friday"
+    ],
+    "busy_days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "unique_groups": {
+      "Flutter Alex 10": [
+        {
+          "day": "Monday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        }
+      ],
+      "Flutter Alex 11": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Flutter Alex 12": [
+        {
+          "day": "Monday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Flutter Alex 13": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Flutter Alex 14": [
+        {
+          "day": "Monday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        }
+      ],
+      "Flutter Alex 9": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ]
+    }
+  },
+  "Ahmed Abdelsatar": {
+    "track": "Data Analysis",
+    "groups": [
+      {
+        "group": "Data Analysis Maadi 68",
+        "day": "Saturday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "Data Analysis Maadi 68",
+        "day": "Friday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "Data Analysis Online 85",
+        "day": "Saturday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Data Analysis Online 85",
+        "day": "Friday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Data Analysis Maadi 68": [
+        {
+          "day": "Saturday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        }
+      ],
+      "Data Analysis Online 85": [
+        {
+          "day": "Saturday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        }
+      ]
+    }
+  },
+  "Ali Zein": {
+    "track": "Data Analysis",
+    "groups": [
+      {
+        "group": "Data Analysis Maadi 66",
+        "day": "Saturday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "Data Analysis Maadi 66",
+        "day": "Friday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "Data Analysis Nasr 49",
+        "day": "Monday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Data Analysis Nasr 49",
+        "day": "Wednesday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Data Analysis Nasr 51",
+        "day": "Sunday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Data Analysis Nasr 51",
+        "day": "Tuesday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Data Analysis Online 77",
+        "day": "Saturday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Data Analysis Online 77",
+        "day": "Friday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Data Analysis Online 83",
+        "day": "Monday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Online 83",
+        "day": "Wednesday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      }
+    ],
+    "off_days": [
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Data Analysis Maadi 66": [
+        {
+          "day": "Saturday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        }
+      ],
+      "Data Analysis Nasr 49": [
+        {
+          "day": "Monday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        }
+      ],
+      "Data Analysis Nasr 51": [
+        {
+          "day": "Sunday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        }
+      ],
+      "Data Analysis Online 77": [
+        {
+          "day": "Saturday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Data Analysis Online 83": [
+        {
+          "day": "Monday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        }
+      ]
+    }
+  },
+  "Ayman": {
+    "track": "Data Analysis",
+    "groups": [
+      {
+        "group": "Data Analysis Maadi 53",
+        "day": "Monday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Data Analysis Maadi 53",
+        "day": "Wednesday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Data Analysis Maadi 65",
+        "day": "Monday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Maadi 65",
+        "day": "Wednesday",
+        "from": "21:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Nasr 46",
+        "day": "Saturday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Data Analysis Nasr 46",
+        "day": "Friday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Data Analysis Nasr 48",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Data Analysis Nasr 48(4 sessions)",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Tuesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Data Analysis Maadi 53": [
+        {
+          "day": "Monday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        }
+      ],
+      "Data Analysis Maadi 65": [
+        {
+          "day": "Monday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "21:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Data Analysis Nasr 46": [
+        {
+          "day": "Saturday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Data Analysis Nasr 48": [
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        }
+      ],
+      "Data Analysis Nasr 48(4 sessions)": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        }
+      ]
+    }
+  },
+  "MAram": {
+    "track": "Data Analysis",
+    "groups": [
+      {
+        "group": "Data Analysis Online 80",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Online 80",
+        "day": "Tuesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Online 81",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Online 81",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis online ISMQ 2",
+        "day": "Saturday",
+        "from": "15:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Data Analysis online ISMQ 2",
+        "day": "Friday",
+        "from": "15:00:00",
+        "to": "18:00:00"
+      }
+    ],
+    "off_days": [
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Data Analysis Online 80": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Data Analysis Online 81": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Data Analysis online ISMQ 2": [
+        {
+          "day": "Saturday",
+          "from": "15:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "15:00:00",
+          "to": "18:00:00"
+        }
+      ]
+    }
+  },
+  "Mazen": {
+    "track": "Data Analysis",
+    "groups": [
+      {
+        "group": "2",
+        "day": "Saturday",
+        "from": "13:00:00",
+        "to": "13:00:00"
+      },
+      {
+        "group": "Data Analysis Alex 15",
+        "day": "Sunday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Alex 15",
+        "day": "Tuesday",
+        "from": "00:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Alex 17",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Alex 17",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Online 78",
+        "day": "Sunday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Data Analysis Online 78",
+        "day": "Tuesday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Data Analysis Online 86",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Data Analysis Online 86",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      }
+    ],
+    "off_days": [
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "2": [
+        {
+          "day": "Saturday",
+          "from": "13:00:00",
+          "to": "13:00:00"
+        }
+      ],
+      "Data Analysis Alex 15": [
+        {
+          "day": "Sunday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "00:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Data Analysis Alex 17": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Data Analysis Online 78": [
+        {
+          "day": "Sunday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        }
+      ],
+      "Data Analysis Online 86": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        }
+      ]
+    }
+  },
+  "Pola": {
+    "track": "Data Analysis",
+    "groups": [
+      {
+        "group": "Data Analysis Nasr 50",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Data Analysis Nasr 50",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Data Analysis Online 76",
+        "day": "Saturday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "Data Analysis Online 76",
+        "day": "Friday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "Data Analysis Online 84",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Online 84",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Online 87",
+        "day": "Sunday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Online 87",
+        "day": "Tuesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      }
+    ],
+    "off_days": [
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Data Analysis Nasr 50": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        }
+      ],
+      "Data Analysis Online 76": [
+        {
+          "day": "Saturday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        }
+      ],
+      "Data Analysis Online 84": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Data Analysis Online 87": [
+        {
+          "day": "Sunday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ]
+    }
+  },
+  "YOUSSEF": {
+    "track": "Data Analysis",
+    "groups": [
+      {
+        "group": "Data Analysis Maadi 60",
+        "day": "Wednesday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Maadi 60(20 or 22/4)",
+        "day": "Monday",
+        "from": "20:00:00",
+        "to": "23:00:00"
+      },
+      {
+        "group": "Data Analysis Online 82",
+        "day": "Sunday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "Data Analysis Online 82",
+        "day": "Tuesday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "Maadi 63",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Maadi 63",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Online 79",
+        "day": "Saturday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "Online 79",
+        "day": "Friday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      }
+    ],
+    "off_days": [
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Data Analysis Maadi 60": [
+        {
+          "day": "Wednesday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Data Analysis Maadi 60(20 or 22/4)": [
+        {
+          "day": "Monday",
+          "from": "20:00:00",
+          "to": "23:00:00"
+        }
+      ],
+      "Data Analysis Online 82": [
+        {
+          "day": "Sunday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        },
+        {
+          "day": "Tuesday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ],
+      "Maadi 63": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        }
+      ],
+      "Online 79": [
+        {
+          "day": "Saturday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        }
+      ]
+    }
+  },
+  "AHMED ALI": {
+    "track": "Cyber",
+    "groups": [
+      {
+        "group": "Cyber Alex 17",
+        "day": "Monday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Cyber Alex 17",
+        "day": "Wednesday",
+        "from": "17:00:00",
+        "to": "20:00:00"
+      },
+      {
+        "group": "Cyber Maadi 68",
+        "day": "Saturday",
+        "from": "19:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Cyber Maadi 68",
+        "day": "Friday",
+        "from": "18:00:00",
+        "to": "22:00:00"
+      },
+      {
+        "group": "Cyber Maadi 84",
+        "day": "Saturday",
+        "from": "14:00:00",
+        "to": "18:00:00"
+      },
+      {
+        "group": "Cyber Maadi 84",
+        "day": "Friday",
+        "from": "14:00:00",
+        "to": "17:00:00"
+      },
+      {
+        "group": "Cyber Nasr 63",
+        "day": "Saturday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      },
+      {
+        "group": "Cyber Nasr 63",
+        "day": "Friday",
+        "from": "08:00:00",
+        "to": "12:00:00"
+      }
+    ],
+    "off_days": [
+      "Sunday",
+      "Tuesday",
+      "Thursday"
+    ],
+    "busy_days": [
+      "Saturday",
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "unique_groups": {
+      "Cyber Alex 17": [
+        {
+          "day": "Monday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        },
+        {
+          "day": "Wednesday",
+          "from": "17:00:00",
+          "to": "20:00:00"
+        }
+      ],
+      "Cyber Maadi 68": [
+        {
+          "day": "Saturday",
+          "from": "19:00:00",
+          "to": "22:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "18:00:00",
+          "to": "22:00:00"
+        }
+      ],
+      "Cyber Maadi 84": [
+        {
+          "day": "Saturday",
+          "from": "14:00:00",
+          "to": "18:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "14:00:00",
+          "to": "17:00:00"
+        }
+      ],
+      "Cyber Nasr 63": [
+        {
+          "day": "Saturday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        },
+        {
+          "day": "Friday",
+          "from": "08:00:00",
+          "to": "12:00:00"
+        }
+      ]
+    }
+  }
+}

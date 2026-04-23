@@ -1,0 +1,8 @@
+2026/04/19-18:39:50.536 54c8 Reusing MANIFEST D:\Analysis Hub\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/19-18:39:50.542 54c8 Recovering log #15
+2026/04/19-18:39:50.543 54c8 Reusing old log D:\Analysis Hub\user_data\Default\Local Storage\leveldb/000015.log 
+2026/04/19-18:40:11.214 386c Level-0 table #20: started
+2026/04/19-18:40:11.220 386c Level-0 table #20: 76709 bytes OK
+2026/04/19-18:40:11.222 386c Delete type=0 #15
+2026/04/19-18:41:43.314 22b0 Level-0 table #22: started
+2026/04/19-18:41:43.333 22b0 Level-0 table #22: 88762 bytes OK
