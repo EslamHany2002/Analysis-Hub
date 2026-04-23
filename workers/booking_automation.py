@@ -8,7 +8,8 @@ from datetime import datetime, timedelta
 
 import pandas as pd
 from playwright.sync_api import sync_playwright
-
+import subprocess, sys
+subprocess.run([sys.executable, "-m", "playwright", "install", "chromium"], capture_output=True)
 
 # =========================
 # PATHS
@@ -244,7 +245,7 @@ def automation_step_1_bookings():
     with sync_playwright() as p:
         browser = p.chromium.launch_persistent_context(
             user_data_dir=os.path.join(BASE_DIR, "user_data"),
-            headless=False,
+            headless=True,
             accept_downloads=True,
         )
 
