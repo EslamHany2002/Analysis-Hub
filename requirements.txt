@@ -8,3 +8,4 @@ matplotlib>=3.7.0
 seaborn>=0.13.0
 streamlit-extras>=0.3.0
 python-dotenv>=1.0.0
+playwright>=1.40.0
